@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "infra-agent-versions-launcher",
+    "displayName": "InfraAgentVersionsLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "infra-agent-versions-nerdlet"
+}
