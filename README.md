@@ -11,7 +11,7 @@ nr1 profiles:default
 
 Clone the Repository
 ```
-nr1 nerdpack:clone -r git@source.datanerd.us:rdouglas/Synthetics-Alert-Condition-Search.git
+nr1 nerdpack:clone -r git@github.com:rudawg/infra-versions.git
 ```
 
 Enter your password
