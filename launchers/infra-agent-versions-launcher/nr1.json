@@ -1,7 +1,7 @@
 {
     "schemaType": "LAUNCHER",
     "id": "infra-agent-versions-launcher",
-    "displayName": "InfraAgentVersionsLauncher",
-    "description": "Describe me",
+    "displayName": "Infra Agent Versions",
+    "description": "An across account view of all the Infra Agent Versions you are running, filterable by version",
     "rootNerdletId": "infra-agent-versions-nerdlet"
 }

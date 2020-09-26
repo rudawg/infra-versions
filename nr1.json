@@ -1,6 +1,6 @@
 {
   "schemaType": "NERDPACK",
   "id": "85cbc5db-b848-4d80-82c2-08f009b92c3c",
-  "displayName": "InfraAgentVersions",
-  "description": "Nerdpack infra-agent-versions"
+  "displayName": "Infra Agent Versions",
+  "description": "An across account view of all the Infra Agent Versions you are running, filterable by version"
 }
